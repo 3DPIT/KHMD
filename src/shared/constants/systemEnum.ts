@@ -1,0 +1,4 @@
+export enum systemEnum {
+    LOCAL_STORAGE_ACC_TOKEN_KEY = 'MiMDS_ACC_KEY',
+    LOCAL_STORAGE_REF_TOKEN_KEY = 'MiMDS_REF_KEY',
+}
