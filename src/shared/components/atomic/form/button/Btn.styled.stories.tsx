@@ -26,6 +26,6 @@ export const Labels1: Story = {
     args: {
         variant: "outlined",
         children: 'Button',
-        startIcon : <Icon name={"Delete"}></Icon>
+        startIcon : <Icon name={"Add"}></Icon>
       },
     };
